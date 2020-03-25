@@ -65,7 +65,7 @@ exports.config = {
         args: ['--headless', '--disable-gpu'],
       }
     }
-  ]
+  ],
   //
   // ===================
   // Test Configurations
